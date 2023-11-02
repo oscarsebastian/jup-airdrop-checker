@@ -13,16 +13,16 @@ This project uses asyncio requests and some basic Python and Pandas functionalit
 
   Here's a short guide on how you can run the Script by yourself!
 
-1. Clone this project
-2. Change directory to the project
-3. Install requirements with : pip install -r requirements.txt
-4. Fill in the wallet.txt file
-  ```
-  wallet1
-  wallet2
-  wallet3
-   ```
-5. Run the main.py file
+  1. Clone this project
+  2. Change directory to the project
+  3. Install requirements with : pip install -r requirements.txt
+  4. Fill in the wallet.txt file
+    ```
+    wallet1
+    wallet2
+    wallet3
+     ```
+  5. Run the main.py file
 
 ## Example
 
