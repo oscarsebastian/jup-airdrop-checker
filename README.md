@@ -25,8 +25,8 @@ This project uses asyncio requests and some basic Python and Pandas functionalit
   5. Run the main.py file
 
 ## Example
+![working_script](https://github.com/oscarsebastian/jup-airdrop-checker/assets/58465405/9df625d7-7812-4230-a47f-f7cc6b2c687f)
 
-![working_script](https://github.com/oscarsebastian/jup-airdrop-checker/assets/58465405/1e5371c6-10d1-4a0d-8b8c-c85eab059064)
 
 ## DISCLAIMER
 
