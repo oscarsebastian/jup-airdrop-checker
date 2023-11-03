@@ -54,7 +54,7 @@ def print_wallet_qualification(df: pd.DataFrame) -> None:
         total_volume = row['Total']
         if total_volume > 0:
             generic_info = f"{Fore.GREEN}Wallet {row['Wallet']} qualifies for $JUP | "
-            specific_info = f"{row['Operations']} operations detected and {total_volume}$ volume detected."
+            specific_info = f"{row['Operations']} operations and {total_volume}$ volume detected."
             print(f"{generic_info}{specific_info}")
         else:
             print(f"{Fore.RED}Wallet {row['Wallet']} does not qualify for $JUP | No operations detected.")
